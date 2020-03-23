@@ -1,5 +1,5 @@
 # bashhome
-> see code: [https://github.com/shroysha/shroysha.github.io/tree/master/py/bashhome](https://github.com/shroysha/shroysha.github.io/tree/master/py/bashhome)
+> see code: [https://github.com/shroysha/bashhome](https://github.com/shroysha/bashhome)
 
 ## Description
 null
