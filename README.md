@@ -1,7 +1,7 @@
 # bashhome
 
 ## Description
-null
+My bash home library
 
 ### Tags
 [Python]
